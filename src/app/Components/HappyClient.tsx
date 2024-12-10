@@ -58,7 +58,7 @@ function HappyClient() {
           </div>
         </div>
 
-        <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
+        {/* <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
           <div className='flex items-center justify-between'>
             <div>
               <h5 className="text-neutral-200 text-sm">
@@ -97,9 +97,9 @@ function HappyClient() {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
+        {/* <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
           <div className='flex items-center justify-between'>
             <div>
               <h5 className="text-neutral-200 text-sm">
@@ -138,9 +138,9 @@ function HappyClient() {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
+        {/* <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
           <div className='flex items-center justify-between'>
             <div>
               <h5 className="text-neutral-200 text-sm">
@@ -179,9 +179,9 @@ function HappyClient() {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
+        {/* <div className='border border-neutral-800 rounded-xl my-5 p-5 bg-[#141414]'>
           <div className='flex items-center justify-between'>
             <div>
               <h5 className="text-neutral-200 text-sm">
@@ -220,7 +220,7 @@ function HappyClient() {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="grid md:grid-cols-2 gap-4">
             <div className="border border-neutral-800 rounded-xl p-5 bg-[#141414]">
