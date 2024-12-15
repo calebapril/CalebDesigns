@@ -60,7 +60,7 @@ function page() {
       <OurServices/>
       <HappyClient/>
       <Pricing
-      title={"Custom Price"}
+      title="Custom Price"
       features={cardDetails}
       buttonText="Let&apos;s work together"
       />

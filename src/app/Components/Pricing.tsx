@@ -184,6 +184,7 @@ function Pricing({
 }: {
   features: { icon?: JSX.Element; text: string }[]; // Specify type for 'features'
   buttonText: string;
+  title: string;
 }) {
   return (
     <div className="mt-8">
