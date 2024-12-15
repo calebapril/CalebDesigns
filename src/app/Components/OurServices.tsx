@@ -11,10 +11,10 @@ function OurServices() {
         </h2>
         <div>
           <p className="text-neutral-400 text-[14.2px] font-geist">
-            Ever stumble upon a design that just clicks? It doesn&apos;t need an explanation; it resonates, like it was made to fit perfectly into your world. 
+          Crafting Websites with Purpose and Strategy
           </p>
           <p className="text-neutral-400 text-[14.2px] mt-3 font-geist">
-            We strive to create solutions that spark this sense of connection, offering a comprehensive range of design services that cover everything from concept to completion.
+          At CalebDesign, we create websites with purpose and strategy, blending design with your business goals to drive results and enhance user experience.
           </p>
         </div>
 
@@ -22,42 +22,42 @@ function OurServices() {
           <div className="h-[86px] bg-neutral-900 rounded-xl p-3 text-sm font-geist border border-neutral-800 text-white">
             <BsFillHeartFill className='text-neutral-500 mt-1' size={15}/>
             <p className="mt-4">
-              Creating impactful brand identities.
+            Custom Web Design Services.
             </p>
           </div>
 
           <div className="h-[86px] bg-neutral-900 rounded-xl p-3 text-sm font-geist border border-neutral-800 text-white">
             <MonitorDot className='text-neutral-500 mt-1' size={15}/>
             <p className="mt-4">
-              Unforgettable brand identities. 
+            Web to App Conversion. 
             </p>
           </div>
 
           <div className="h-[86px] bg-neutral-900 rounded-xl p-3 text-sm font-geist border border-neutral-800 text-white">
             <Dock className='text-neutral-500 mt-1' size={15}/>
             <p className="mt-4">
-              Innovative, user-focused websites.
+            Website Management & Hosting.
             </p>
           </div>
 
           <div className="h-[86px] bg-neutral-900 rounded-xl p-3 text-sm font-geist border border-neutral-800 text-white">
             <Framer className='text-neutral-500 mt-1' size={15}/>
             <p className="mt-4">
-              Seamless experiences.
+            SEO Services.
             </p>
           </div>
 
           <div className="h-[86px] bg-neutral-900 rounded-xl p-3 text-sm font-geist border border-neutral-800 text-white">
             <Palette className='text-neutral-500 mt-1' size={15}/>
             <p className="mt-4">
-              Striking visuals, reimagined.
+            Marketing Solutions.
             </p>
           </div>
 
           <div className="h-[86px] bg-neutral-900 rounded-xl p-3 text-sm font-geist border border-neutral-800 text-white">
             <CookingPot className='text-neutral-500 mt-1' size={15}/>
             <p className="mt-4">
-              Compelling, investor-ready decks.
+            Social Media Management.
             </p>
           </div>
         </div>

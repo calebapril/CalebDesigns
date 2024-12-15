@@ -147,31 +147,39 @@
 
 
 
-import { CalendarDays, CircleCheck, Figma, MoveRight, Zap } from 'lucide-react';
+import { Check, MoveRight, Zap } from 'lucide-react';
 import React from 'react';
 import { PiSparkleFill } from 'react-icons/pi';
 
 // Use 'const' instead of 'let' for 'cardDesign' since it's not reassigned
 const cardDesign = [
   {
-    icon: <CalendarDays className="text-neutral-500 mt-1" size={15} />,
-    text: "Trial week -- no strings attached",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "All Starter Package Features",
   },
   {
-    icon: <Figma className="text-neutral-500 mt-1" size={15} />,
-    text: "Best in class design via Figma",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "E-commerce/Booking/Marketplace Integration",
   },
   {
-    icon: <CircleCheck className="text-neutral-500 mt-1" size={15} />,
-    text: "Unlimited requests and revision",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Payment Integration Solutions",
   },
   {
-    icon: <CircleCheck className="text-neutral-500 mt-1" size={15} />,
-    text: "Frequent updates",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Advanced Performance Optimization",
   },
   {
-    icon: <CircleCheck className="text-neutral-500 mt-1" size={15} />,
-    text: "Pause or Cancel anytime",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "24/7 Dedicated Support",
+  },
+  {
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Training Videos for Self-Management",
+  },
+  {
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Email Setup and Support",
   },
   {
     text: "Let's Work Together",
@@ -202,17 +210,16 @@ function Pricing({
         <div className="border border-neutral-800 rounded-xl p-4 bg-[#141414]">
           <div className="flex items-center gap-x-2 text-white">
             <PiSparkleFill className="text-white" />
-            <span>0</span>
             <MoveRight />
-            <span>1</span>
-            <span>Design</span>
+            <span>$700/</span>
+            <span>1 year hosting included</span>
           </div>
 
           <div>
-            <h2 className="text-2xl font-geist text-neutral-200 my-2">Hello</h2>
+            <h2 className="text-2xl font-geist text-neutral-200 my-2">Starter Launch Package</h2>
 
             <p className="text-sm text-neutral-400 my-2">
-              Your go-to solution for whatever you may need -- we design everything!
+            Kickstart your online presence with a professionally designed landing page, complete with all essentials.
             </p>
           </div>
 
@@ -241,7 +248,7 @@ function Pricing({
           <div className="flex justify-between items-center">
             <div className="flex items-center gap-x-2">
               <Zap className="text-white" />
-              <span className="text-white">Unlimited</span>
+              <span className="text-white">Retainer</span>
             </div>
 
             <div className="text-xs px-1 bg-neutral-800 rounded-sm p-0.5 text-white font-geist">

@@ -4,7 +4,7 @@ import { PiSparkleFill } from 'react-icons/pi'
 
 function WhyUs() {
   return (
-    <div className='lg:mt-[499px] pt-[19px] sm:pt-[40px] md:pt-[80px]'>
+    <div className='max-w-7xl mt-9'>
       <section className='max-w-7xl mx-auto'>
         <h2 className="text-2xl text-white font-geist">Why Us</h2>
         <div>

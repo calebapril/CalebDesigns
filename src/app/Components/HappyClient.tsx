@@ -11,7 +11,7 @@ function HappyClient() {
           </h2>
         </div>
         <p className="text-neutral-400 text-[14.2px] font-geist">
-          Our individual backgrounds encompass years of industry expertise. We&apos;ve partnered with clients across different sectors, and here are their thoughts on our services.
+        Hear It from Our Clients: Success Stories and Testimonials
         </p>
       </section>
 

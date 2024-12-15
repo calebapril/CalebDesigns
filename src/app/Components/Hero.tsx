@@ -7,14 +7,14 @@ function Hero() {
       <section className="px-4 mt-[134px]">
         <div className="max-w-2xl mx-auto">
           <h1 className="text-[24px] font-geist text-neutral-200">
-            Your vision deserves a world-class execution
+          Designing Dreams into Reality for Startups
           </h1>
           <p className="text-[24px] leading-8 font-geist text-neutral-500">
-            World-class design for your vision. CalebDesigns: your creative partner. 
+          Turn your startup vision into reality with CalebDesign’s expert web design. 
           </p>
           <div>
             <p className="text-neutral-500 text-[14.2px] mt-3 font-geist">
-              Ready to bring your vision to life? We specialize in creating intuitive, attractive interfaces for SaaS, Web3, and Service industries.
+            At CalebDesign, we specialize in crafting innovative, user-focused websites that fuel growth and captivate audiences.
             </p>
           </div>
           <div className="flex justify-between items-center my-3 h-[72px]">

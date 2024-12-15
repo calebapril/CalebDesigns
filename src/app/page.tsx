@@ -13,41 +13,40 @@ import WhyUs from "./Components/WhyUs";
 import OurServices from "./Components/OurServices";
 import HappyClient from "./Components/HappyClient";
 import Pricing from "./Components/Pricing";
-import { BsFillHeartFill } from "react-icons/bs";
-import { CircleCheck, Figma, Framer, Palette } from "lucide-react";
+import { Check } from "lucide-react";
 import HowWeWork from "./Components/HowWeWork";
 import Elevate from "./Components/Elevate";
 import Footer from "./Components/Footer";
 
   const cardDetails = [
   {
-    icon: <BsFillHeartFill className="text-neutral-500 mt-1" size={15} />,
-    text: "Brand Identity Design",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Custom Landing Page Design",
   },
 
   {
-    icon: <Figma className="text-neutral-500 mt-1" size={15} />,
-    text: "Product and Website Design",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Domain Purchase Included",
   },
 
   {
-    icon: <Framer className="text-neutral-500 mt-1" size={15} />,
-    text: "Framer Development",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Hosting & Maintenance Services",
   },
 
   {
-    icon: <Palette className="text-neutral-500 mt-1" size={15} />,
-    text: "Graphic and 3D Design",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Integrated Contact Form",
   },
 
   {
-    icon: <CircleCheck className="text-neutral-500 mt-1" size={15} />,
-    text: "Unlimited revisions",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "SSL Security Certificate",
   },
 
   {
-    icon: <CircleCheck className="text-neutral-500 mt-1" size={15} />,
-    text: "Frequent updates",
+    icon: <Check className="text-neutral-500 mt-1" size={15} />,
+    text: "Mobile Responsive Design",
   },
 ];
 
@@ -56,15 +55,15 @@ function page() {
     <div className="max-w-2xl mx-auto px-4">
       <Hero />
       <Work/>
-      <WhyUs/>
+      <HowWeWork/>
       <OurServices/>
-      <HappyClient/>
       <Pricing
       title="Custom Price"
       features={cardDetails}
       buttonText="Let&apos;s work together"
       />
-      <HowWeWork/>
+      <HappyClient/>
+      <WhyUs/>
       <Elevate/>
       <Footer/>
     </div>
