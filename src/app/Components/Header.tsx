@@ -23,7 +23,7 @@ function Header() {
             />
           </div>
           <div className="flex space-x-4 font-geist">
-            <button className="text-sm py-1 w-[100px] h-[40px] bg-neutral-800 text-stone-300 rounded-full">
+            <button className="text-sm py-1 w-[100px] h-[40px]  bg-neutral-800 text-stone-300 rounded-full">
               View Work
             </button>
             <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">

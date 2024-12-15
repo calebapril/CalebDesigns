@@ -9,7 +9,6 @@
 import React from "react";
 import Hero from "./Components/Hero";
 import Work from "./Components/Work";
-import Image from "next/image";
 import WhyUs from "./Components/WhyUs";
 import OurServices from "./Components/OurServices";
 import HappyClient from "./Components/HappyClient";
@@ -20,7 +19,7 @@ import HowWeWork from "./Components/HowWeWork";
 import Elevate from "./Components/Elevate";
 import Footer from "./Components/Footer";
 
-let cardDetails = [
+  const cardDetails = [
   {
     icon: <BsFillHeartFill className="text-neutral-500 mt-1" size={15} />,
     text: "Brand Identity Design",
