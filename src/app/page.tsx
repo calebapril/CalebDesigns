@@ -16,6 +16,9 @@ import HappyClient from "./Components/HappyClient";
 import Pricing from "./Components/Pricing";
 import { BsFillHeartFill } from "react-icons/bs";
 import { CircleCheck, Figma, Framer, Palette } from "lucide-react";
+import HowWeWork from "./Components/HowWeWork";
+import Elevate from "./Components/Elevate";
+import Footer from "./Components/Footer";
 
 let cardDetails = [
   {
@@ -53,7 +56,7 @@ function page() {
   return (
     <div className="max-w-2xl mx-auto px-4">
       <Hero />
-      {/* <Work/> */}
+      <Work/>
       <WhyUs/>
       <OurServices/>
       <HappyClient/>
@@ -62,6 +65,9 @@ function page() {
       features={cardDetails}
       buttonText="Let&apos;s work together"
       />
+      <HowWeWork/>
+      <Elevate/>
+      <Footer/>
     </div>
   );
 }
