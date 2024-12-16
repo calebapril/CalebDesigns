@@ -14,13 +14,23 @@ function Header() {
           height={600} 
           alt="logo" /> */}
 
-            <Image
+<a href="#">
+    <Image
+      src="/calebdesigns.png"
+      className="sm:w-36 sm:h-36 w-36 h-20 transition-all ease-in-out duration-150 object-none"
+      alt="logo"
+      width="65"
+      height="50"
+    />
+  </a>
+
+            {/* <Image
               src={"/calebdesigns.png"}
               className="sm:w-36 sm:36 w-36 h-20 transition-all ease-in-out duration-150 object-none"
               alt="logo"
               width="65"
               height="50"
-            />
+            /> */}
           </div>
           <div className="flex space-x-4 font-geist">
             {/* <button className="text-sm py-1 w-[100px] h-[40px]  bg-neutral-800 text-stone-300 rounded-full">
