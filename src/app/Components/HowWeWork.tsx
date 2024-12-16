@@ -24,7 +24,7 @@ function HowWeWork() {
           </p>
         </div>
 
-        <div className='bg-[#141414] rounded-xl p-4 text-sm font-geist border border-neutral-800'>
+        <div className='bg-[#141414] rounded-xl p-4 text-sm font-geist border border-neutral-800 text-white'>
         <div className='flex items-center gap-x-2'>
         <h3 className="bg-neutral-700 rounded-full p-2 w-6 h-6 flex items-center justify-center">2</h3>
         <span>Kickstart Your Web Presence: Initial Demo</span>
@@ -35,7 +35,7 @@ function HowWeWork() {
           </p>
         </div>
 
-        <div className="bg-[#141414] rounded-xl p-4 text-sm font-geist border border-neutral-800">
+        <div className="bg-[#141414] rounded-xl p-4 text-sm font-geist border border-neutral-800 text-white">
           <div className="flex items-center gap-x-2">
           <h3 className="bg-neutral-700 rounded-full p-2 w-6 h-6 flex items-center justify-center">3</h3>
           <span>Test, Optimize, Deploy: Your Website’s Path to Launch</span>
@@ -46,7 +46,7 @@ function HowWeWork() {
           </p>
         </div>
 
-        <div className="bg-[#141414] rounded-xl p-4 text-sm font-geist border border-neutral-800">
+        <div className="bg-[#141414] rounded-xl p-4 text-sm font-geist border border-neutral-800 text-white">
           <div className="flex items-center gap-x-2">
           <h3 className="bg-neutral-700 rounded-full p-2 w-6 h-6 flex items-center justify-center">4</h3>
           <span>Why Choose Us?</span>
