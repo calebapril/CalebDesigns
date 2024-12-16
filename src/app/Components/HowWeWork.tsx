@@ -53,7 +53,7 @@ function HowWeWork() {
           </div>
 
           <p className="mt-4 text-sm text-neutral-500">
-          At CalebDesign, we’re more than just a web design agency—we’re your dedicated partner in bringing your online vision to life.
+          At Caleb Designs, we’re more than just a web design agency—we’re your dedicated partner in bringing your online vision to life.
           </p>
         </div>
       </div>

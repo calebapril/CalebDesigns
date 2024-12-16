@@ -7,24 +7,35 @@ function Hero() {
       <section className="px-4 mt-[134px]">
         <div className="max-w-2xl mx-auto">
           <h1 className="text-[24px] font-geist text-neutral-200">
-          Designing Dreams into Reality for Startups
+          A Dedicated Design Team for Founders and Startups.
           </h1>
           <p className="text-[24px] leading-8 font-geist text-neutral-500">
-          Turn your startup vision into reality with CalebDesign’s expert web design. 
+          We don’t just design, we solve your brand’s biggest challenges. 
           </p>
           <div>
             <p className="text-neutral-500 text-[14.2px] mt-3 font-geist">
-            At CalebDesign, we specialize in crafting innovative, user-focused websites that fuel growth and captivate audiences.
+            At Caleb Designs, we specialize in crafting innovative, user-focused websites that fuel growth and captivate audiences.
             </p>
           </div>
           <div className="flex justify-between items-center my-3 h-[72px]">
             <div className="flex space-x-4 font-geist">
-            <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
+            <a 
+  href="https://cal.com/calebnyong.calebdesigns/introduction-and-strategy-call-for-website-design-or-development?date=2024-12-16&month=2024-12" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="inline-block"
+>
+  <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
+    Schedule Call
+  </button>
+</a>
+
+            {/* <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
               Schedule Call
-            </button>
-            <button className="text-sm py-1 w-[100px] h-[40px] bg-neutral-800 text-stone-300 rounded-full">
+            </button> */}
+            {/* <button className="text-sm py-1 w-[100px] h-[40px] bg-neutral-800 text-stone-300 rounded-full">
               View Work
-            </button>
+            </button> */}
             </div>
           </div>
 
@@ -34,7 +45,14 @@ function Hero() {
             <span>
               <MoveRight/>
             </span>
-            <span className="text-neutral-200">Calebnyong02@gmail.com</span>
+
+            <a
+    href="mailto:Calebnyong02@gmail.com" 
+    className="text-neutral-200 hover:underline"
+  >
+    Calebnyong02@gmail.com
+  </a>
+            {/* <span className="text-neutral-200">Calebnyong02@gmail.com</span> */}
           </div>
           <div className="text-neutral-500 mt-5">
             <h3>Trusted by Industries Leaders:</h3>

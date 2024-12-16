@@ -26,9 +26,19 @@ function Header() {
             {/* <button className="text-sm py-1 w-[100px] h-[40px]  bg-neutral-800 text-stone-300 rounded-full">
               View Work
             </button> */}
-            <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
+            <a 
+  href="https://cal.com/calebnyong.calebdesigns/introduction-and-strategy-call-for-website-design-or-development?date=2024-12-16&month=2024-12" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="inline-block"
+>
+  <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
+    Schedule Call
+  </button>
+</a>
+            {/* <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
               Schedule Call
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

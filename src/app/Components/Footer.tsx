@@ -19,7 +19,13 @@ function Footer() {
 
       <div className='flex items-center gap-x-2'>
         <Github size={14} />
+        <a
+    href="https://github.com/calebapril/"
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
         Github
+        </a>
       </div>
     </div>
   )

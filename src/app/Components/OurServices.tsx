@@ -14,7 +14,7 @@ function OurServices() {
           Crafting Websites with Purpose and Strategy
           </p>
           <p className="text-neutral-400 text-[14.2px] mt-3 font-geist">
-          At CalebDesign, we create websites with purpose and strategy, blending design with your business goals to drive results and enhance user experience.
+          At Caleb Designs, we create websites with purpose and strategy, blending design with your business goals to drive results and enhance user experience.
           </p>
         </div>
 

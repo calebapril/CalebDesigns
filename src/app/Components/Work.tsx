@@ -14,7 +14,7 @@ const projects = [
 
 function Work() {
   return (
-    <div className='mt-[23px] px-4'>
+    <div className='mt-[23px] px-4' id="work">
       <div className='max-w-7xl mx-auto'>
         <h2 className="text-3xl mb-8 text-white font-geist">
           My Work

@@ -10,9 +10,26 @@ function Elevate() {
 
       <div className='flex justify-between items-center my-2 h-[72px]'>
         <div className="flex space-x-2 font-geist">
-          <button className="text-sm py-1 w-[121px] h-[40px] bg-white text-neutral-800 rounded-full">Schedule Call</button>
+        <a 
+  href="https://cal.com/calebnyong.calebdesigns/introduction-and-strategy-call-for-website-design-or-development?date=2024-12-16&month=2024-12" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="inline-block"
+>
+  <button className="bg-white font-geist w-[121px] h-[40px] text-neutral-800 rounded-full">
+    Schedule Call
+  </button>
+</a>
 
-          <button className="text-sm py-1 w-[100px] h-[40px] bg-neutral-800 text-stone-300 rounded-full">View Work</button>
+          {/* <button className="text-sm py-1 w-[121px] h-[40px] bg-white text-neutral-800 rounded-full">Schedule Call</button> */}
+
+          {/* <button className="text-sm py-1 w-[100px] h-[40px] bg-neutral-800 text-stone-300 rounded-full">View Work</button> */}
+
+          <a href="#work">
+  <button className="text-sm py-1 w-[100px] h-[40px] bg-neutral-800 text-stone-300 rounded-full">
+    View Work
+  </button>
+</a>
         </div>
       </div>
 
@@ -21,7 +38,13 @@ function Elevate() {
         <span>
           <MoveRight/>
         </span>
-        <span className='text-neutral-200'>Calebnyong02@gmail.com</span>
+        <a 
+    href="mailto:Calebnyong02@gmail.com" 
+    className="text-neutral-200 hover:underline"
+  >
+    Calebnyong02@gmail.com
+  </a>
+        {/* <span className='text-neutral-200'>Calebnyong02@gmail.com</span> */}
       </div>
     </div>
   )
