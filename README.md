@@ -35,7 +35,7 @@ CalebDesigns: A cutting-edge agency delivering innovative web development soluti
 ## Demo
 
 > [!NOTE]
-> Please be advised that there are currently issues when using this application in other browser, like the background of the site can be White instead of Black. For more information, refer to [](https://github.com/aliabb01/invoify/issues/11).
+> Please be advised that there are currently issues when using this application in other browser, like the background of the site can be White instead of Dark. For more information, refer to [](https://github.com/aliabb01/invoify/issues/11).
 
 Visit the [live demo](https://calebdesigns.vercel.app/) to see Caleb Designs in action.
 
