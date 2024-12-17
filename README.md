@@ -1,9 +1,9 @@
+![Project Header](/public/Caleb-Designs-Web-Agency.png)
+
 # Caleb Designs
 
 ### Overview
 CalebDesigns: A cutting-edge agency delivering innovative web development solutions for SaaS, Web3, and beyond. Built using Next.js, Typescript, and Tailwind CSS
-
-![Caleb Designs Website image](/public/Caleb-Designs-Web-Agency.png)
 
 ## Table of Contents
 
