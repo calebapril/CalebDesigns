@@ -6,8 +6,11 @@
     "Inem",
     "linecap",
     "linejoin",
+    "postbuild",
     "reimagined",
+    "sitemapindex",
     "Sogo",
-    "uncompromised"
+    "uncompromised",
+    "urlset"
   ]
 }

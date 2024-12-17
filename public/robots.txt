@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://calebdesigns.vercel.app/
+
+# Sitemaps
+Sitemap: https://calebdesigns.vercel.app/sitemap.xml
