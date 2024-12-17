@@ -132,7 +132,7 @@ export default function Home() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "CalebDesign",
+    "name": "CalebDesigns",
     "url": "https://calebdesigns.vercel.app/", 
     "logo": "/calebdesigns.png",
     "description": "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
