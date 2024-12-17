@@ -20,11 +20,11 @@ export const metadata: Metadata = {
 
 
   title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
-  description: "Professional, innovative, and dependable! Caleb Designs transformed our ideas into stunning, functional designs. Their attention to detail and creativity perfectly aligned with our vision. Highly recommended for anyone seeking design excellence!",
+  description: "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
   keywords: ["Web Design Services", "Custom Web Design", "E-commerce Websites", "SEO Services", "Website Management", "Social Media Management", "Web Hosting Services", "Online Business Solutions", "Website Development", "User Experience (UX) Design", "Responsive Web Design"],
   openGraph: {
     title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
-    description: "Caleb Designs is a web design agency specializing in building stunning, responsive websites for businesses.",
+    description: "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
     url: "https://calebdesigns.vercel.app/",
     siteName: "CalebDesigns",
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
-    description: "Caleb Designs is a web design agency specializing in building stunning, responsive websites for businesses.",
+    description: "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
     images: ["/src/images/EdTech.png"],
   },
 };
@@ -52,7 +52,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} max-w-2xl mx-auto antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} max-w-2xl mx-auto antialiased bg-[#0a0a0a]`}
       >
         <Header />
         {children}
