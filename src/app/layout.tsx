@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
     description: "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
-    images: ["/src/images/EdTech.png"],
+    images: ["/EdTech.png"],
   },
 };
 
