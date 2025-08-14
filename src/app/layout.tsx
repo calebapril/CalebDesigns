@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
     description:
-      "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
+      "Caleb Designs creates stunning, responsive websites for startups across Africa. Let us build your business a beautiful online presence.",
     url: "https://calebdesigns.vercel.app/",
     siteName: "CalebDesigns",
     images: [
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
     description:
-      "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
+      "Caleb Designs creates stunning, responsive websites for startups across Africa. Let us build your business a beautiful online presence.",
     images: ["/public/EdTech.png"],
   },
 };
