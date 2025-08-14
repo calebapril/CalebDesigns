@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     siteName: "CalebDesigns",
     images: [
       {
-        url: "/public/EdTech.png", // Path to your Open Graph image in public folder
+        url: "https://calebdesigns.vercel.app/EdTech.png", // Path to your Open Graph image in public folder
         width: 1200,
         height: 630,
       },
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     title: "CalebDesigns – Top Web Design in Lagos & Nigeria",
     description:
       "Caleb Designs creates stunning, responsive websites for startups across Africa. Let us build your business a beautiful online presence.",
-    images: ["/public/EdTech.png"],
+    images: ["https://calebdesigns.vercel.app/EdTech.png"],
   },
 };
 
