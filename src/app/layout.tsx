@@ -69,6 +69,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
+        {/* pinterest verification */}
         <meta
           name="p:domain_verify"
           content="6b63cbebde4f0d3a7bff184d7942c48a"

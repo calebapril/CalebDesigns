@@ -135,7 +135,7 @@ export default function Home() {
     "name": "CalebDesigns",
     "url": "https://calebdesigns.vercel.app/", 
     "logo": "/calebdesigns.png",
-    "description": "Caleb Designs is a web design agency specializing in building stunning, responsive websites for startup businesses in africa.",
+    "description": "Caleb Designs creates stunning, responsive websites for startups across Africa. Let us build your business a beautiful online presence.",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+2347032661150",
